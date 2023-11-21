@@ -1,2 +1,2 @@
-print('hi!')
-print('git')
+print('HI!')
+print('GIT')
